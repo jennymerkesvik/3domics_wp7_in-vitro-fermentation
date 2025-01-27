@@ -1,0 +1,25 @@
+"","time","diet","medium","group","animal","OD600","rawdata_sample_name","metaT_name"
+"J001-0h","pre-fermentation","AcGGM","start","ms","1",NA,"J001eE-0h",NA
+"J001-ctrl","post-fermentation","AcGGM","negative control","mc","1",2.7,"J001eE-Exp","EXT-CP1310b-02-A"
+"J001-acggm","post-fermentation","AcGGM","AcGGM","mm","1",3.3,"J001eE-Exp-MAN","EXT-CP1310b-01-A"
+"J011-0h","pre-fermentation","negative control","start","cs","11",NA,"J011eE-0h",NA
+"J011-ctrl","post-fermentation","negative control","negative control","cc","11",3.8,"J011eE-Exp","EXT-CP1310b-12-A"
+"J011-acggm","post-fermentation","negative control","AcGGM","cm","11",5.6,"J011eE-Exp-MAN","EXT-CP1310b-11-A"
+"J014-0h","pre-fermentation","negative control","start","cs","14",NA,"J014eE-0h",NA
+"J014-ctrl","post-fermentation","negative control","negative control","cc","14",3,"J014eE-Exp","EXT-CP1310b-16-A"
+"J014-acggm","post-fermentation","negative control","AcGGM","cm","14",7.2,"J014eE-Exp-MAN","EXT-CP1310b-15-A"
+"J016-0h","pre-fermentation","AcGGM","start","ms","16",NA,"J016eE-0h",NA
+"J016-ctrl","post-fermentation","AcGGM","negative control","mc","16",3.3,"J016eE-Exp","EXT-CP1310b-06-A"
+"J016-acggm","post-fermentation","AcGGM","AcGGM","mm","16",5.6,"J016eE-Exp-MAN","EXT-CP1310b-05-A"
+"J018-0h","pre-fermentation","negative control","start","cs","18",NA,"J018eE-0h",NA
+"J018-ctrl","post-fermentation","negative control","negative control","cc","18",4.3,"J018eE-Exp","EXT-CP1310b-04-A"
+"J018-acggm","post-fermentation","negative control","AcGGM","cm","18",8,"J018eE-Exp-MAN","EXT-CP1310b-03-A"
+"J020-0h","pre-fermentation","AcGGM","start","ms","20",NA,"J020eE-0h",NA
+"J020-ctrl","post-fermentation","AcGGM","negative control","mc","20",3.4,"J020eE-Exp","EXT-CP1310b-10-A"
+"J020-acggm","post-fermentation","AcGGM","AcGGM","mm","20",3.8,"J020eE-Exp-MAN","EXT-CP1310b-09-A"
+"J021-0h","pre-fermentation","AcGGM","start","ms","21",NA,"J021eE-0h",NA
+"J021-ctrl","post-fermentation","AcGGM","negative control","mc","21",3.5,"J021eE-Exp","EXT-CP1310b-14-A"
+"J021-acggm","post-fermentation","AcGGM","AcGGM","mm","21",3.4,"J021eE-Exp-MAN","EXT-CP1310b-13-A"
+"J022-0h","pre-fermentation","negative control","start","cs","22",NA,"J022eE-0h",NA
+"J022-ctrl","post-fermentation","negative control","negative control","cc","22",3.8,"J022eE-Exp","EXT-CP1310b-08-A"
+"J022-acggm","post-fermentation","negative control","AcGGM","cm","22",5.5,"J022eE-Exp-MAN","EXT-CP1310b-07-A"
